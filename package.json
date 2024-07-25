@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-training",
+  "version": "1.0.0",
+  "description": "Training NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Emmanuel Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
